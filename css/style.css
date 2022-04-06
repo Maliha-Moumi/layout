@@ -1,0 +1,286 @@
+.header{ height: 100px; 
+background-color:#fabbcd;
+}
+.container {overflow: hidden;}
+.blog{height: 150px;
+background-color: black;
+width: 30%;
+float: left;
+}
+.contact{ height: 150px;
+	background-color: cyan;
+width:70%;
+float: right;
+}
+.wrapper{overflow: hidden;}
+.single{ height: 100px;
+width:33.33% ;
+float: left;
+}
+.red {background-color: red;}
+.green {background-color: green;}
+.blue {background-color: blue;}
+.footer{height: 100px;
+background-color: teal;
+}
+.layout1{
+background-color: #dddddd;
+padding: 30px 40px 50px;}
+.logo1{height: 50px;
+	background-color:#585252;
+	margin-bottom: 5px;
+	line-height:40px;
+	}
+.navigation1{height: 35px;
+	background-color:#585252;
+	text-align: center;
+margin-bottom: 10px;}
+.header1{height: 100px;
+	background-color:#585252;
+	text-align: center;
+	margin-bottom: 10px;
+	line-height: 80px;
+}
+
+.footer1{height:35px;
+	background-color:#585252;
+text-align: center;
+
+}
+.container{overflow: hidden;
+}
+.sidebar1{height: 400px;
+	width: 20%;
+	background-color:#585252;
+	float: left;
+	text-align: center;
+	line-height:300px;
+
+}
+.bodyarea1{height: 400px;
+	width: 78%;
+	background-color:#585252;
+text-align: center;
+line-height:300px;
+float: right;
+}
+.layout2{
+background-color: #dddddd;
+padding: 30px 30px 30px;}
+.container{overflow: hidden;}
+.logo2{height: 50px;
+	background-color:#585252;
+	text-align:left;
+	float: left;
+	width:50%;
+	line-height:10px;
+	}
+.navigation2{height:50px;
+	background-color:#585252;
+	text-align: center;
+	line-height:10px;
+float: right;
+width:50%;}
+.header2{height: 100px;
+	background-color:#585252;
+	text-align: center;
+	margin-bottom: 10px;
+	line-height: 80px;
+}
+
+.container{overflow: hidden;
+}
+.box{ height: 300px;
+width:32% ;
+float: left;
+background-color:#585252;
+line-height: 200px;
+text-align: center;
+}
+.margin {margin-right: 25px;}
+
+.logo3{height: 50px;
+	background-color:#585252;
+	text-align:left;
+	line-height:40px;
+	margin-bottom:5px;
+	}
+.container{overflow: hidden;}
+.sidebar3{ height: 400px;
+width:20% ;
+float: left;
+background-color:#897b7b;
+line-height: 300px;
+text-align: center;
+margin-right: 12px;
+}
+
+.header3{ height: 195px;
+width:79% ;
+float:left;
+background-color:#585252;
+text-align: center;
+margin-bottom:10px;
+line-height: 150px;
+}
+.bodyarea3{ height:195px;
+width:79% ;
+float:left;
+background-color:#585252;
+text-align: center;
+line-height: 150px;
+}
+.logo4{height: 50px;
+	background-color:#585252;
+	text-align:left;
+	float: left;
+	width:50%;
+	margin-bottom:5px;
+	line-height:10px;
+	}
+.navigation4{height:50px;
+	background-color:#585252;
+	text-align: center;
+	line-height:10px;
+float: right;
+width:50%;
+margin-bottom:5px;}
+
+.blank{height:150px;
+width:23.8%;
+float: left;
+background-color:#897b7b;
+margin-right:20px;
+margin-bottom:20px;
+}
+.blank4{height:150px;
+width:23.8%;
+float: left;
+background-color:#897b7b;
+}
+.boxx{ height: 150px;
+width:33% ;
+float: left;
+background-color:#585252;
+line-height: 100px;
+text-align:center;
+}
+.margin2{margin-right:6px ;
+}
+
+.logo5{height: 80px;
+	background-color:#585252;
+	text-align:center;
+line-height:70px;
+margin-bottom:5px;
+}
+.header5{height: 150px;
+	background-color:#585252;
+	text-align:center;
+line-height:130px;
+margin-bottom:20px;
+}
+.blank5{height:50px;
+width:23.8%;
+float: left;
+text-align: center;
+background-color:#585252;
+margin-right:20px;
+margin-bottom: 20px;
+}
+.margin5{height:50px;
+width:23.8%;
+float: left;
+background-color:#585252;
+margin-bottom: 20px;
+}
+.siteplan{height:150px;
+	background-color:#585252;
+text-align: center;
+line-height: 140px;
+}
+.about{ height: 400px;
+width:50% ;
+float: left;
+background-color:#585252;
+line-height: 300px;
+text-align: center;
+margin-right: 22px;
+}
+
+.quicklink{ height: 155px;
+width:48% ;
+float:left;
+background-color:#585252;
+text-align: center;
+margin-bottom:30px;
+line-height: 130px;
+}
+.quicklink2{ height:215px;
+width:48% ;
+float:left;
+background-color:#585252;
+text-align: center;
+line-height: 150px;
+}
+.wrapper1{width:60%;
+margin:0 auto;
+padding:10px;
+border:5px solid #ddd;
+}
+label{font-size: 20px;
+color:blue;}
+.first_name, .surname_name {
+height: 25px;
+padding: 10px;
+font-size: 18px;
+margin-right:10px;	
+}
+.email, .password , .birthday{width: 90%;
+height: 25px;
+padding: 10px;
+font-size: 18px;
+}
+.signup {background-color: green;
+font-size: 20px;
+border-radius:5px;
+padding:10px;
+}
+a {font-size: 20px;}
+img {float:right;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
